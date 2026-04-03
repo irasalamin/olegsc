@@ -1,0 +1,25 @@
+body{
+  font-family: sans-serif;
+  
+}
+
+header{
+      text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    background-color: #FFC0CB;
+    height: 45px;
+    padding-top: 10px ;
+}
+
+nav a{
+    text-align: center;
+   color: #FFC0CB;
+    padding: 20px;
+    text-decoration: none;
+}
